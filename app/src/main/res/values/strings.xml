@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestao FInanceira</string>
+    <string name="register_mismatch_password_error">As senhas não estão iguais</string>
+    <string name="register_error">Este campo é obrigatório</string>
+    <string name="login_form_error">Este campo é obrigatório</string>
+    <string name="categoria">Categoria</string>
+    <string name="descricao">Descricao</string>
+</resources>
